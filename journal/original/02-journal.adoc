@@ -1,5 +1,6 @@
-== The Journal of John Banks;
+== The Journal of John Banks.
 
+[.chapter-subtitle--blurb]
 Showing the manner of my education and convincement,
 how I came to receive the knowledge of God, and of his blessed truth;
 the travail of my soul under judgment; how I came through the same,
@@ -307,6 +308,10 @@ This was in the fifth month, 1663.
 
 Here follow some letters I wrote whilst I was a prisoner at Carlisle.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Father and Mother,
 
 My duty is hereby remembered to you; and my dear and tender love,
@@ -334,12 +339,20 @@ From the house of our friend, Mungo Bewly, one of the prisoners,
 (being five) where the constables are ready to take us away to prison,
 in the city of Carlisle in Cumberland, the 8th day of the Fifth month, 1663.
 
+[.signed-section-closing]
 Your obedient son,
 
+[.signed-section-signature]
 John Banks.
+
+--
 
 My second letter to my parents; with a few words to Friends.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Father and Mother,
 
 My dear and tender love, as a dutiful and obedient child,
@@ -357,11 +370,16 @@ though you be at liberty and give up freely unto the Lord, for what we have is h
 and if he bless, who can curse?
 Blessed, praised, and magnified be his holy name for evermore.
 
+[.signed-section-closing]
 Your dutiful son,
 
+[.signed-section-signature]
 John Banks.
 
-Dear Friends, in the precious Truth, to whom my love in the same is beyond expressions;
+[.salutation]
+Dear Friends,
+
+in the precious Truth, to whom my love in the same is beyond expressions;
 we are with our Friends at present who are in prison for tithes;
 and are like to be retained after the sessions for fees, if we get our liberty then,
 all our fines being levied.
@@ -376,9 +394,13 @@ and do remain your brother, and fellow-sufferer,
 who never knew the worth of a prison so much before,
 to my sweet peace and inward consolation, though I have yet tasted but a little thereof.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+[.signed-section-context-close]
 From the prison-house in Carlisle, the 18th of the Fifth month, 1663.
+
+--
 
 Some time after, I had drawings in my spirit to visit the neighbouring counties,
 as Westmoreland, Lancashire, and some part of Yorkshire,
@@ -408,6 +430,10 @@ where we had good service for the Lord and his truth.
 
 A letter to my wife, written upon my journey towards the west and south of England.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Wife,
 
 Thou art dear unto me, together with our little one,
@@ -442,13 +468,21 @@ We have had a meeting every day this week, and shall have one tomorrow, if the L
 
 Thy dear and loving husband, according to my measure of the truth received.
 
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 Written near Bradford, in Yorkshire, the 14th of the Third month, 1668.
+
+--
 
 From Yorkshire we travelled into Nottinghamshire, Leicestershire, and Warwickshire,
 where we had many blessed meetings, and where I wrote the following letter to my wife.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Wife,
 
 Unto whom I am truly united; in the pure love and unity of the Spirit of Truth,
@@ -477,15 +511,23 @@ and then as the Lord may order us.
 So with the remembrance of my duty to my parents, and my love to Friends,
 as though named, I remain thy dear and loving husband,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+[.signed-section-context-close]
 Warwick, the 4th of the Fourth month, 1668.
+
+--
 
 From Warwickshire we travelled into Gloucestershire, and so to Bristol,
 where the Lord made our service acceptable to Friends and other people;
 and we travelled through Somersetshire,
 from whence I wrote the following letter to my wife.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Wife,
 
 In that love which still endureth, and increaseth in my heart to thee, do I feel thee;
@@ -537,10 +579,13 @@ And so I bid thee farewell.
 The Lord keep and preserve thee, with all his people, faithful in this trying day,
 which possibly may have the effect to try the faith of many.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+[.signed-section-context-close]
 Puddimoore-Milton, in Somersetshire, the 28th of the Fourth month, 1668.
 
+[.postscript]
 POSTSCRIPT.
 
 The truth of our God prospers and gaineth a good report in these parts,
@@ -556,10 +601,17 @@ so that we may bear a faithful testimony for Him, to the good of souls;
 that he over all may be glorified;
 and that we may feel true peace with Him in the end for our reward.
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 My wife's letter to me.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Husband,
 
 After long expectation to hear from thee, I have, before the writing hereof,
@@ -586,9 +638,13 @@ to whose care and fatherly protection I commit and commend thee, and dearly salu
 with love to thy companion, J. W., and bid thee farewell;
 and am thy dear and loving wife,
 
+[.signed-section-signature]
 Ann Banks
 
+[.signed-section-context-close]
 Whinfell-Hall, in Cumberland, the 19th of the Fifth month, 1668.
+
+--
 
 From hence we travelled westward, through part of Devonshire, and into Dorsetshire,
 Hampshire, Wiltshire, and so up to London.
@@ -601,6 +657,10 @@ We had very large and full meetings in most places where we travelled,
 and many were convinced and are yet alive, standing witnesses for God.
 At London, I wrote to my wife as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Wife,
 
 Thine I have received, whereby I understand the great weakness thou hast been in,
@@ -628,9 +688,13 @@ under the consideration of what they have done for me.
 With the salutation of my true love to thyself, in the remembrance of our little one,
 and my love to Friends, and relations and neighbours, I remain thy loving husband,
 
+[.signed-section-signature]
 J+++.+++ B.
 
-And now Peter Fearon, my apprentice: Mark, and take good notice what I say to thee;
+[.salutation]
+And now Peter Fearon, my apprentice:
+
+Mark, and take good notice what I say to thee;
 lay it to heart, and consider well now in my absence.
 My true and unfeigned love is to thee, and I desire thy prosperity and welfare,
 in all which is good, both inwardly and outwardly; but first of all, and chiefly,
@@ -668,11 +732,16 @@ for whatsoever thou dost to her, I take it as done to myself:
 and mind to carry thyself in love, and be a good example in my family,
 that so you may all live in love and unity together; in which the Lord preserve you all.
 
+[.signed-section-closing]
 Thy loving master,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+[.signed-section-context-close]
 From Whitechapel in London, the 3rd day of the Sixth month, 1668.
+
+--
 
 We travelled in the work and service of the Lord from London,
 through those counties before named, again to Bristol,
@@ -680,6 +749,10 @@ where we were greatly comforted in the Lord, in truth's prosperity,
 with other of the brethren we met with there;
 where I wrote the following letter to my wife.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Wife,
 
 I received thine at Bristol,
@@ -705,11 +778,16 @@ blessed be the Lord for the same,
 who hath been pleased to bless our weak endeavours for the good of his people,
 and our great comfort and satisfaction in him.
 
+[.signed-section-closing]
 I am thy dear and loving husband,
 
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 Bristol, the Seventh month, 1668.
+
+--
 
 We travelled through the nation homeward,
 and at the end of six months from the time of our going forth,
@@ -803,6 +881,10 @@ where no meeting of Friends before that time had been, that I could hear of,
 and only one or two friendly people in it.
 But before I went, I wrote the following letter to my wife:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Wife,
 
 That nearness of love I still feel in my heart towards thee,
@@ -857,11 +939,16 @@ At last I told William Edmundson of my exercise, and he named Wicklow to me,
 and an answer was in me, that that was the place I was to go to;
 being twenty-four miles off, where a meeting had never been before; of which hereafter.
 
+[.signed-section-closing]
 So I rest thy loving husband,
 
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 Dublin in Ireland, the 22nd of the Third month, 1671.
+
+--
 
 Accordingly I went on seventh-day, and two Friends with me,
 and gave word that I intended to have a meeting in that town next day,
@@ -1065,6 +1152,10 @@ and we were refreshed together in the enjoyment of the Lord's presence:
 and from thence we travelled into the north, visiting Friends,
 where the Lord hath a good people: from whence I sent the following letter to my wife.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Wife,
 
 The truth of our God is exceedingly precious,
@@ -1098,11 +1189,16 @@ Truly may I say, as being an eye-witness, the harvest is very great in this nati
 Oh! that the Lord would be pleased to fit and
 prepare and send forth more labourers into it.
 
+[.signed-section-closing]
 Farewell, my dear wife, with my sweet babes.
 
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 Near Lurgan, in the North of Ireland, the 21st of the Fourth month, 1671.
+
+--
 
 In my return, after ten weeks, it came upon me that I must go to Wicklow again;
 and when I came to Dublin, there was a letter from Wicklow,
@@ -1124,6 +1220,9 @@ and a meeting of God's people was set up in that town, and continueth.
 
 From Dublin, before I went to Wicklow the second time,
 I wrote the following letter to my wife.
+
+[.embedded-content-document.letter]
+--
 
 In the nearness of that love which remaineth in my heart without change,
 I write unto thee; and my prayers are to the Lord for thee, and all with thee;
@@ -1186,11 +1285,16 @@ than husband, and to children, than father and mother; who is alone worthy of pr
 honour, and glory, both now, and for evermore.
 Amen.
 
+[.signed-section-closing]
 I am thy dear husband, with love to thee still renewed,
 
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 Dublin, the 14th of the Fifth month, 1671.
+
+--
 
 In about two years after, the Lord required of me to go and visit Ireland again;
 and coming to Wicklow, I went to the jailer's, to see Friends in prison,
@@ -1267,6 +1371,10 @@ a true figure of the victory the Truth obtained, through the power thereof.
 This year, going to London, to the Yearly meeting,
 I wrote the following letters to my wife:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear and loving Wife,
 
 Have faith in and through all thy exercises,
@@ -1289,15 +1397,21 @@ I came here the last seventh-day night.
 John Burnyeat is now with me; things here are all quiet and well at present,
 and meetings full and large.
 
+[.signed-section-closing]
 Farewell in the Lord.
 
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 London, the 11th of the Third month, 1675.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Wife,
 
 In the feeling of the love of God, my heart is truly open towards thee and thine,
@@ -1358,15 +1472,21 @@ with all Sion's enemies and opposers.
 Blessed and happy are all they who bear a faithful testimony for him,
 while they have a day and time so to do.
 
+[.signed-section-closing]
 Thy faithful husband,
 
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 London, 29th of Third month, 1675.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Wife,
 
 By this thou mayest understand that I am well in all respects,
@@ -1387,15 +1507,24 @@ I had seventeen meetings among them.
 So having not much more in my mind to write,
 I bid thee farewell in the Lord Jesus Christ,
 
+[.signed-section-closing]
 And remain thy husband in that which changeth not,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+[.signed-section-context-close]
 Bristol, 30th of the Sixth month, 1676.
+
+--
 
 In the year 1676, I went into Ireland again;
 from whence I wrote the following letters to my wife, giving some account of my travels.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear,
 
 My love in the strength of God's power reacheth unto thee,
@@ -1496,15 +1625,21 @@ in which time we had good service for the Lord in many blessed heavenly meetings
 With the remembrance of my love to thee, and my dear children, and Friends,
 not forgetting my duty to my father, I conclude, and remain,
 
+[.signed-section-closing]
 Thy ever loving husband,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+[.signed-section-context-close]
 Dublin in Ireland, 13th of the Ninth month, 1676.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Wife,
 
 In that love which many waters cannot quench, neither floods drown, I write to thee,
@@ -1520,11 +1655,16 @@ To the Lord and the word of his patience I commit and commend thee,
 that in him thou mayest be preserved, with all thine, unto the end, in all faithfulness,
 to receive the crown of life, and of immortal glory.
 
+[.signed-section-closing]
 Farewell, my dear heart.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+[.signed-section-context-close]
 Donaghadeo in Ireland, the 22nd day of the Tenth month, 1676.
+
+--
 
 When my friend John Watson and I had travelled through the nation of Ireland,
 visiting Friends therein, and been much comforted and refreshed together with them,
@@ -1627,13 +1767,11 @@ against were enraged and cried out at some places,
 "`He means us.`"
 A copy of which paper follows:
 
-A true and faithful Testimony for the living God,
-and the all-sufficiency and unchangeableness of his power and spirit;
-against the devil and his dark power and spirit,
-by which he rules in the hearts of the children of disobedience,
-with all his cunning and subtlety in his instruments.
-Also a few words of counsel and advice to Friends everywhere,
-to keep to their first love, and to meet often together in the name of the Lord.
+[.embedded-content-document.letter]
+--
+
+[.blurb]
+=== A true and faithful Testimony for the living God, and the all-sufficiency and unchangeableness of his power and spirit; against the devil and his dark power and spirit, by which he rules in the hearts of the children of disobedience, with all his cunning and subtlety in his instruments. Also a few words of counsel and advice to Friends everywhere, to keep to their first love, and to meet often together in the name of the Lord.
 
 The Lord our God, even the true and living God,
 hath promised that he will never break his covenant with his people,
@@ -1850,9 +1988,13 @@ to whom let every soul be subject in all things,
 who is worthy of glory and honour for ever.
 Amen.
 
+[.signed-section-signature]
 John Banks.
 
-Moorgate, in Cumberland, the 16th day of the Seventh month, 1678,
+[.signed-section-context-close]
+Moorgate, in Cumberland, the 16th day of the Seventh month, 1678.
+
+--
 
 And according to what the Lord required of me herein,
 I was wrought into a willingness to go forth into several counties in this nation,
@@ -1862,6 +2004,10 @@ to perform what he required of me, though my exercises were great,
 both in body and spirit.
 Whilst at the Yearly Meeting at London I wrote the following letter to my wife:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Wife,
 
 Thou art truly so unto me, as near as bone of my bone, and flesh of my flesh;
@@ -1939,6 +2085,7 @@ and it may be one month ere I come there.
 I travelled hard to come here one week before the Yearly Meeting,
 which tended to clear me the sooner of this city.
 
+[.salutation]
 And now, my dear Children,
 
 Mind the fear of the Lord, every one of you,
@@ -1958,11 +2105,16 @@ and walk as becomes the truth, which the Lord in his love hath given you a knowl
 in which I truly desire your growth and increase, as if you were my children;
 then all things will be well.
 
+[.signed-section-closing]
 Farewell my dear wife, children, and servants.
 
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 London, the 16th of the Fourth month, 1679
+
+--
 
 From thence I proceeded in my journey westward;
 but my greatest exercise was in Westmoreland, and at Hartford, as' I came up to London,
@@ -1992,6 +2144,10 @@ for they who were of it followed me from meeting to meeting.
 The following letter I wrote to my daughter, after she was placed at service in London,
 in the year 1682.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Sarah Banks, my eldest daughter,
 
 Thou hast been near and dear to me ever since the day thou wast born,
@@ -2071,12 +2227,20 @@ thy heart may be truly broken and tendered before the Lord,
 and so kept in all lowliness and humility before him, unto the end of thy days.
 Amen.
 
+[.signed-section-closing]
 So prayeth thy tender and affectionate father,
 
+[.signed-section-signature]
 John Banks.
+
+--
 
 This year I went to Ireland again, from whence I wrote the following letter to my wife:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Wife,
 
 In that which openeth my heart to the Lord, and maketh me truly tender before him,
@@ -2144,19 +2308,19 @@ may have the praise, honour and glory; who is eternally worthy.
 Peter Fearon, who was my servant seven years,
 is now my acceptable companion in the work of the Gospel.
 
+[.signed-section-signature]
+J+++.+++ B.
+
+[.signed-section-context-close]
 Mount Melick in Ireland, the 23rd of the Fourth month, 1682.
+
+--
 
 [.asterism]
 '''
 
-A relation of my imprisonment in the city of Carlisle in Cumberland,
-for six years and nine months,
-because for conscience sake I could not pay tithes demanded by George Fletcher,
-of Hutton hall, in the aforesaid county; a justice of peace, so called,
-but a great persecutor of God's people, by imprisonment and spoiling of their goods;
-and at the time of my commitment,
-all that he pretended was his due was but eight shillings and six-pence,
-which showeth his hard-heartedness and oppression.
+[.blurb]
+=== A relation of my imprisonment in the city of Carlisle in Cumberland, for six years and nine months, because for conscience sake I could not pay tithes demanded by George Fletcher, of Hutton hall, in the aforesaid county; a justice of peace, so called, but a great persecutor of God's people, by imprisonment and spoiling of their goods; and at the time of my commitment, all that he pretended was his due was but eight shillings and six-pence, which showeth his hard-heartedness and oppression.
 
 In the beginning of the second month of the year 1684,
 I was committed to prison at the suit of the said George Fletcher, impropriator,
@@ -2248,6 +2412,10 @@ charging his man not to let one of us go out at the gate of his court.
 
 About this time I wrote to my wife as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Wife,
 
 My love in our Lord Jesus Christ salutes thee, and all thine,
@@ -2285,11 +2453,16 @@ for I am truly content to bear it, if it were much more,
 considering thy concerns in this season of the year, being harvest time,
 and the journey so long.
 
+[.signed-section-closing]
 So farewell in the Lord.
 
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 From the prison in Carlisle, the 12th of the Sixth month, 1684.
+
+--
 
 Upon the 17th day of the sixth month, being the first-day of the week,
 we were met together to wait upon the Lord our God with all our hearts,
@@ -2457,6 +2630,10 @@ For which I reproved both the jailer and turnkey sharply;
 so that in a little time they let him go.
 This day I wrote to my wife and children, the following letter.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Wife,
 
 Thou art truly so to me, even so near that we are truly one,
@@ -2584,11 +2761,16 @@ for I have had no liberty to walk abroad these several months,
 and the jailer doth not suffer me to speak or pray in any meeting, after he hears me;
 for which, the Lord will assuredly meet with him by his judgments.
 
+[.signed-section-closing]
 I am thy loving husband, dear wife, and your tender father, dear children,
 
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 From my prison-house, in Carlisle, the 13th of the Seventh month, 1684.
+
+--
 
 On the 15th of the same month, in the evening, came the jailer,
 and ordered Thomas Hall and myself to the common jail,
@@ -2658,15 +2840,11 @@ So he betook himself to a new-invented shift,
 to hinder the sound of truth's testimony borne by me, from reaching the people's ears.
 About this time I wrote the following paper:
 
-To the inhabitants of the city of Carlisle;
-but more especially to such as cannot endure to hear the sound of a man's voice,
-though in prayer to the God of heaven,
-or in exhortation to his fellow-prisoners or others to love and fear God,
-and walk before him as becomes Christians;
-and yet can endure to hear men and women curse and swear, without reproof or punishment;
-and suffer drunkards to stagger and reel in the streets, with curses and oaths;
-which I have often seen and heard to the grief of my soul,
-since I came a prisoner into your city.
+[.embedded-content-document.paper]
+--
+
+[.blurb]
+=== To the inhabitants of the city of Carlisle; but more especially to such as cannot endure to hear the sound of a man's voice, though in prayer to the God of heaven, or in exhortation to his fellow-prisoners or others to love and fear God, and walk before him as becomes Christians; and yet can endure to hear men and women curse and swear, without reproof or punishment; and suffer drunkards to stagger and reel in the streets, with curses and oaths; which I have often seen and heard to the grief of my soul, since I came a prisoner into your city.
 
 Under the consideration whereof,
 a necessity attends me to put you in mind what you have been and are doing,
@@ -2696,7 +2874,7 @@ while your ears are so open to the contrary?
 Read the Scriptures, and judge yourselves,
 wherein you are short of a true Christian's practice under the Gospel dispensation;
 which never was to persecute and imprison for worshipping God.
-Read Psalm Iviii.
+Read Psalm 58.
 1 to 5; and whether you are not such, who are said to be 'like the deaf adder,
 that stoppeth her ear and will not hearken to the voice of the charmer,
 charming never so wisely.'
@@ -2846,11 +3024,14 @@ and hates nothing but the evil in any;
 and yet am a sufferer in outward bonds for the
 testimony of Jesus and of a good conscience,
 
-
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 Given forth in the common jail in the city of Carlisle, Cumberland,
-tho 30th day of the Seventh month, 1684.
+the 30th day of the Seventh month, 1684.
+
+--
 
 The sixth day of the week, and also the first-day following,
 being the 3rd and 5th days of the eighth month,
@@ -2877,6 +3058,10 @@ After I was liberated by the act of grace,
 I travelled in the work of the ministry into the West of England,
 where I wrote the following letters to my wife and children.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear wife, together with my dear children,
 
 My heart being open in the love of God, in a living remembrance of you all,
@@ -2899,6 +3084,7 @@ in all holy life and conversation?
 to the end that we may live and die the death of the righteous;
 that so it may be well with us, when time here shall be no more.
 
+[.salutation]
 Dear children,
 
 Carefully mind the performance of your duty towards God daily, fearing and obeying him,
@@ -2932,15 +3118,21 @@ I do not see that I am likely to reach the Yearly Meeting at London this year,
 though I must go there before I return home; but when,
 I cannot give any further account at present.
 
+[.signed-section-closing]
 Farewell, my dear.
 
+[.signed-section-signature]
 John Banks,
 
+[.signed-section-context-close]
 From Spiceland, in Devonshire, the 25th of the Third month, 1691.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear heart,
 
 It is with me to say unto thee and thine,
@@ -2964,9 +3156,12 @@ and in faithfulness continue unto the end; unto which, with my own soul,
 the Lord preserve you all.
 Amen!`"
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Wife,
 
 By these, thou with all thine, and Friends, may know that I am well every way;
@@ -2983,9 +3178,13 @@ which would greatly tend to further his work,
 and cause truth to prevail more upon people; which the contrary hinders;
 wherefore blessed are the faithful.
 
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 London, the 9th of the Fifth month, 1691.
+
+--
 
 The above is the last letter I wrote to my dear wife, Anne Banks.
 She died the 2nd day of the tenth month, after the date of the aforesaid letter,
@@ -3027,6 +3226,9 @@ from the year 1688, to the year 1702.
 This year, going to London to the Yearly Meeting,
 I sent the following letter to my children.
 
+[.embedded-content-document.letter]
+--
+
 My dear love in the truth, is hereby remembered unto you and Friends;
 by these you and they may know that I am well, with your brethren and sisters.
 I am in haste, being the tenth hour at night; and I with seven Friends from Ireland here,
@@ -3049,11 +3251,16 @@ The Lord preserve Friends in the innocency and simplicity of the truth,
 where is true unity, peace and safety from the destroyer; for wit and wisdom,
 in the strength of man's reason, darken and stop the springs of life.
 
+[.signed-section-closing]
 Your loving father,
 
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 London, the 8th of the Fourth month, 1694.
+
+--
 
 I travelled through the nation of Ireland five times;
 and once from Carrickfergus to Dublin, being the first time, though I omit,
@@ -3062,6 +3269,9 @@ and the length of time and number of miles.
 I also travelled in Scotland and there visited the people of God, and in the Isle of Mann.
 
 While I was in Ireland, I wrote the following letters to my children.
+
+[.embedded-content-document.letter]
+--
 
 The love of God unto you hath been such, as to give you a knowledge of himself,
 in and through Jesus Christ, the true and saving light;
@@ -3099,16 +3309,21 @@ forty-eight miles back again by Cork, to a meeting at Charleville, on sixth-day.
 
 My acceptable companion, James Lancaster, desires his love remembered to you, and Friends.
 
-Farewell, dear children.
-Your loving father,
+[.signed-section-closing]
+Farewell, dear children. Your loving father,
 
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 Waterford in Ireland, the 4th of the Fifth month, 1694.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear children, John and Mary,
 
 That true love and fatherly care which chiefly attends me concerning you is,
@@ -3152,11 +3367,16 @@ Abel Strettell and Peter Fletcher.
 This I write as an example for others to take notice of,
 which in love I leave to their consideration, who may see these lines.
 
+[.signed-section-closing]
 Your loving father,
 
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 Dublin, the 18th of the Sixth month, 1694.
+
+--
 
 After I saw it my place and service to settle in Somersetshire,
 which was in the year 1696, I often travelled in the counties and shires adjacent,
@@ -3174,5 +3394,5 @@ The Lord keep and preserve them, with my soul and all his everywhere,
 diligent and faithful unto the end.
 Amen!
 
+[.signed-section-signature]
 John Banks.
-

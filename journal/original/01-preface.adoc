@@ -1,8 +1,9 @@
 == Preface by William Penn
 
+[.salutation]
 Friendly Reader,
 
-THE labours of the servants of God ought always to be precious in the eyes of his people;
+The labours of the servants of God ought always to be precious in the eyes of his people;
 and for that reason the very fragments of their
 services are to be gathered up for edification.
 It is this which induces us to exhibit the following pages to public view,
@@ -78,8 +79,8 @@ which that all God's people may do, is, and hath long been,
 the earnest desire and fervent supplication of their
 and thy faithful friend in the Lord Jesus Christ,
 
-
+[.signed-section-signature]
 William Penn.
 
+[.signed-section-context-close]
 London, the 23rd of the Twelfth mouth, 1711.
-
