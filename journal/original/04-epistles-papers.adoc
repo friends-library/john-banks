@@ -1,5 +1,6 @@
-== Epistles and Papers of John Banks
+== Epistles and Papers of John Banks.
 
+[.blurb]
 === Unto You with Whom I Once Had My Conversation:
 
 The truth in soundness held forth and declared unto
@@ -213,15 +214,13 @@ through true judgment for sin, and transgression.
 And therefore hath rather chosen to suffer affliction with the people of God,
 than to enjoy the pleasure of sin for a season.`"
 
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 Given forth in the year, 1661.
 
-[.asterism]
-'''
-
-===
-
+[.blurb]
 === Unto You Who Once Knew the Truth, the Light, to Your Justification; But Being Turned From It Into the Unclean World, It Is Now Your Condemnation:
 
 That all in whom there yet remains any tenderness,
@@ -437,10 +436,13 @@ Unto which the Lord preserve you all, bold and valiant, and faithful for the tru
 while yet upon the earth, is the breathing and travail of my soul,
 in tender love to the Seed of God in all.
 
+[.signed-section-signature]
 John Banks.
 
+[.blurb]
 === For Friends of Paedsay-Meeting, or Elsewhere in Cumberland; To Be Read Among Them, in the Fear of the Lord.
 
+[.salutation]
 Dear Friends,
 
 The foundation of God standeth sure, and they whose building is thereupon,
@@ -551,21 +553,26 @@ In a blessed inward feeling of that love, life,
 and heavenly unity which are at this time in my heart, I take my leave of you;
 and breathe unto the Lord, that we may all be preserved unto the end.
 
+[.signed-section-closing]
 Your brother in the living truth, that changeth not.
 
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 From Malloe in the county of Cork, in Ireland, the 19th day of the Sixth month, 1671.
 
-=== The Testimony of Truth, Against All the Customs, Fashions, Ways, Words, Worships, Carriages and Behaviours That Be In the World, Which Are Out of the Truth;
+[.blurb]
+=== The Testimony of Truth, Against All the Customs, Fashions, Ways, Words, Worships, Carriages and Behaviours That Be In the World, Which Are Out of the Truth.
 
-With an exhortation and warning to all that profess the truth,
+[.centered]
+__With an exhortation and warning to all that profess the truth,
 and come amongst God's people, and yet are found in the said customs, fashions, ways,
 words, etc., and plead for them.
 The people of God,
 in scorn called Quakers do deny and have no fellowship
 with such unfruitful works of darkness,
-but rather reprove them, because the testimony of truth is against them.
+but rather reprove them, because the testimony of truth is against them.__
 
 Fashion not yourselves like unto the world, for the world passeth away,
 and the glory of it as the flower of the field; and the world by wisdom knows not God,
@@ -746,9 +753,8 @@ high above your brows with your powdered hair;
 but adorn yourselves in modest apparel, with shamefacedness and sobriety,
 not with broidered hair, or with gold or pearls, or costly array, but,
 which becometh women professing godliness, with good works, as said the apostle Paul,
-1 Tim.
-ii. ver. 9, 10. And for further proofs,
-read Jer. 10:2-3. 1 Cor. 7:31. 1 Pet. 1:14. and Ch. iii.
+1 Tim. 2 ver. 9, 10. And for further proofs,
+read Jer. 10:2-3. 1 Cor. 7:31. 1 Pet. 1:14. and Ch. 3
 ver. 3, 4, 5. and there you may see how many fashions the apostles name.
 
 The fashions too many of you are found in the practice of,
@@ -891,10 +897,13 @@ worship and serve him, who never said to the house of Jacob, seek ye my face in 
 you may give the praise, and evermore have cause to return him the honour and glory;
 who is worthy thereof, for evermore, Amen.
 
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 Mooregate, in Cumberland, the 22nd of the Twelfth month.
 
+[.blurb]
 === Dear Friends and Brethren, Unto Whom the Salutation of My Love Reacheth.
 
 In all your meetings together to do service for the Lord, his truth, and people,
@@ -968,12 +977,19 @@ which is the travail and living concern and prayer of your brother,
 that you may be so kept and preserved for ever, unto the end.
 Amen.
 
-Known to you by the name of John Banks.
+[.signed-section-closing]
+Known to you by the name of
 
-From my prison-house, in Carlisle, in Cumberland, the 29th of the Third month, 1684,
+[.signed-section-signature]
+John Banks.
 
+[.signed-section-context-close]
+From my prison-house, in Carlisle, in Cumberland, the 29th of the Third month, 1684.
+
+[.blurb]
 === The Blessed Effects of True and Saving Faith: With Encouragement To All Friends Everywhere, That Suffer For Truth and Righteousness Sake.
 
+[.salutation]
 Dear Friends,
 
 The great work of God in the sons and daughters of men,
@@ -1359,13 +1375,19 @@ the Lord God of life, by and through the greatness of his own power,
 preserve you all faithful in life, and unto death.
 Amen.
 
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 From my prison-house, in Carlisle, in Cumberland, the 17th of the Fifth month, 1684.
 
+[.blurb]
 === An Exhortation to Friends, etc.
 
-Dear Friends, Many have been the mercies, privileges and deliverances,
+[.salutation]
+Dear Friends,
+
+Many have been the mercies, privileges and deliverances,
 of which the Lord your God hath made you rich partakers, as you have stood faithful,
 ever since he gathered you out of the world, by an arm of mighty power stretched forth.
 
@@ -1671,12 +1693,16 @@ to be kept where safety and preservation is for evermore.
 Who am your friend and brother, in the living and precious truth,
 though a sufferer in outward bonds, for the testimony of Jesus, and of a good conscience.
 
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 From my prison-house, in Carlisle, in Cumberland, the 8th day of the Seventh month, 1687.
 
+[.blurb]
 === A General Epistle to the Flock of God, but More Particularly, in Cumberland.
 
+[.salutation]
 Dear Friends and Brethren,
 
 Look to the rock from whence ye were hewn,
@@ -1909,15 +1935,19 @@ in the one spirit of life may continue, and abound more and more,
 and that in all your meetings and families,
 you may be blessed with heavenly blessings in Christ Jesus.
 
+[.signed-section-closing]
 From your friend and brother, in the covenant of light and life.
 
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 Given forth at Meare, in Somersetshire, the 23rd day of the Fifth month, 1698.
 
+[.blurb]
 === A True Testimony Concerning My Faith in Christ.
 
-I BELIEVE in that same Lord Jesus Christ, the Son of God, for remission of sins,
+I believe in that same Lord Jesus Christ, the Son of God, for remission of sins,
 and the salvation of my soul, who "`was conceived of the Holy Ghost,
 born of the virgin Mary, made a good confession before Pontius Pilate,
 and was crucified without the gates of Jerusalem; was dead and buried,
@@ -2024,7 +2054,8 @@ by the one as well as the other, and of both, they being one,
 and are willing to lay hold of every help and means, God in and through Jesus Christ,
 has ordained for our salvation.
 
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 Meare, in Somersetshire, the 5th day of the Seventh month, 1704
-

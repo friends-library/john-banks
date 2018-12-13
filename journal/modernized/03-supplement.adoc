@@ -1,3 +1,4 @@
+[#supplement, short="A Supplement To His Journal"]
 == A Supplement to His Journal, With an Account of His Latter End and Dying Words.
 
 After settling in Somersetshire as aforesaid, by marriage with his second wife,
@@ -41,6 +42,10 @@ as age came on.
 Some time after his removal to Street, he wrote me a loving letter,
 of which I shall transcribe some part.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Friend,
 
 That which makes us near and dear one to another is,
@@ -128,11 +133,16 @@ though I undergo pain and weakness without, I have peace, comfort, and strength 
 and that makes amends for all my needs.
 So I shall conclude in love; and do remain
 
+[.signed-section-closing]
 Your friend and brother, in the truth that is living and precious,
 
+[.signed-section-signature]
 John Banks.
 
+[.signed-section-context-close]
 Street, in Somersetshire, the 29th of the Seventh month, 1708.
+
+--
 
 But though he was somewhat recovered, yet not to go far abroad; and not long after,
 his distemper and weakness returning, he was again reduced to his bed.
@@ -201,7 +211,13 @@ and advice.
 On the 22nd of the seventh month, several Friends being present;
 after a time of waiting in silence upon the Lord, he said to this effect:
 
-"`Dear Friends, I counsel you in the love and fear of God to keep to your meetings,
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+Dear Friends,
+
+I counsel you in the love and fear of God to keep to your meetings,
 for the worship and service of God, both first-days and week-days;
 and also Monthly and Quarterly Meetings, which were set up by the power of God,
 to keep things in good order amongst us.--Friends of Glastonbury and Street,
@@ -218,7 +234,9 @@ I can say with the wise and holy apostle Paul,
 that I have fought a good fight and kept the faith,
 and henceforth there is laid up for me a crown of eternal life:
 and did the apostle say for himself only; no, he was wiser than so,
-but for all them that love the blessed appearance of the Lord Jesus Christ.`"
+but for all them that love the blessed appearance of the Lord Jesus Christ.
+
+--
 
 Some Friends of Somerton taking their leave of him, he said,
 "`Give my dear love to Friends, and tell them that my soul is alive unto God.`"
@@ -276,4 +294,5 @@ to embrace the truth and be faithful to it, that their latter end may be like hi
 for whose sakes and the truth's, I have faithfully collected the foregoing account,
 from such as were eye and ear witnesses of it.
 
+[.signed-section-signature]
 J+++.+++ W.

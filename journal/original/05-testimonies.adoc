@@ -1,5 +1,6 @@
-== Testimonies Concerning John Banks
+== Testimonies Concerning John Banks.
 
+[.blurb]
 === John Whiting's Testimony Concerning John Banks.
 
 Since it pleased the Lord, in his infinite love,
@@ -78,10 +79,13 @@ He laid down his head in peace with the Lord, in a good old age, and full of day
 aged about seventy-four, and is entered into the fruition and reward of his labours,
 and his works follow him.
 
+[.signed-section-signature]
 John Whiting.
 
+[.signed-section-context-close]
 London, the 12th of the Twelfth month, 1711.
 
+[.blurb]
 === A Testimony from Friends of Pardshaw Monthly Meeting in Cumberland, concerning John Banks.
 
 He was one upon whom the Lord poured forth of his holy Spirit,
@@ -144,12 +148,15 @@ following the Lord Jesus in the way of self-denial,
 that we may so run as to obtain the crown of immortal glory.
 "`Be thou faithful unto death, and I will give thee a crown of life.`"
 
+[.signed-section-signature]
 James Dickinson, Peter Fearon, John Burnyeat, William Harris, John Wilson,
 Jonathan Bowman, John Ribton, Peter Wilson, Thomas Tiffin, Christopher Fearon,
 Jonathan Bell, John Nicholson, Matthew Lowman, George Wilson.
 
+[.signed-section-context-close]
 From Friends of Pardshaw Monthly Meeting, the 23rd of the Eighth month, 1711.
 
+[.blurb]
 === John Bousted's Testimony Concerning His Deceased Friend, John Banks.
 
 He was a faithful minister of Christ in this his glorious Gospel day,
@@ -185,10 +192,13 @@ with fervent and true desires to the Lord,
 that he may raise up and send forth many more faithful labourers into his harvest;
 for the harvest is great, and the true labourers are but few.
 
+[.signed-section-signature]
 John Bousted.
 
+[.signed-section-context-close]
 Aglionbye, the 25th of the Ninth month, 1711.
 
+[.blurb]
 === Christopher Story's Testimony Concerning John Banks.
 
 As the labours, travels, and exercises of our dear friend John Banks were great,
@@ -318,9 +328,13 @@ from the time of his convincement to the day of his death,
 and of his many labours and exercises both at home and abroad,
 I am the more easy to conclude, being an eye and ear witness of what I have here written.
 
+[.signed-section-signature]
 Christopher Story.
 
-e was very zealous to the last to spread the Gospel;
+[.blurb]
+=== A Testimony from the Quarterly Meeting in the County of Somerset, concerning John Banks, of Street, in the same County, deceased; who departed this life the 6th day of the Eighth month, 1710.
+
+He was very zealous to the last to spread the Gospel;
 and in all his exercises and afflictions he had the
 honour of God and good of his people in his eye.
 He devoutly laboured in his gift, and being an able minister of Christ,
@@ -393,12 +407,17 @@ so wilt thou be fitted to enter into that blessed
 inheritance which God has in store for the faithful.
 That this may be thy portion, so wish, and so pray thy fervent and Christian friends.
 
+[.signed-section-closing]
 Signed by order, and on the behalf of the Meeting aforesaid, from Glaston,
-the 22nd and 23rd of the First month, 1710-11, by Elias Osborne, William Jenkins,
+the 22nd and 23rd of the First month, 1710-11, by
+
+[.signed-section-signature]
+Elias Osborne, William Jenkins,
 John Hipsley, Abraham Thomas, Joseph Pinker, William Horwood, John Thomas, Samuel Bownas,
 William Alloway.
 
-=== A Testimony Concerning Our Dear and Worthy Friend John Banks;
+[.blurb]
+=== A Testimony Concerning Our Dear and Worthy Friend John Banks.
 
 Whom the Lord was pleased to place in this part of the country,
 as he himself hath signified;
@@ -440,17 +459,23 @@ to take unto himself this our dear friend, his faithful servant,
 and minister of the everlasting Gospel, it is the desire and supplication of our hearts,
 unto the great Lord of the harvest,
 that it may please him to raise many more such labourers;
-"`For the harvest indeed is great, but the true and faithful labourers are but few.
+"`For the harvest indeed is great, but the true and faithful labourers are but few.`"
 
+[.signed-section-closing]
 Signed on behalf of our meeting, at Glastonbury and Street, the 13th of the Third month,
-1711, by James Clothier, Sen.
+1711, by
+
+[.signed-section-signature]
+James Clothier, Sen.
 Joseph Moore, Arthur Gundry, John Blackmore, James Clothier, Jan.
 Tho. Freeman, Tho.
 Marnard, Wm. Blackmoke.
 Roger Jewell.
 
+[.signed-section-context-close]
 This was viewed and approved of by the Monthly Meeting.
 
+[.blurb]
 === Hannah Banks'footnote:[Second wife of John Banks] Account and Testimony Concerning Her Dear and Tender Husband, John Banks, Deceased.
 
 I was married to him the 28th of the eighth month, 1696, being a widow,
@@ -498,6 +523,8 @@ for he was a great strength to me in my weakness, who am poor and feeble of myse
 and do desire the prayers of the faithful, for my preservation,
 that I may hold out to the end; who am his mournful widow,
 
+[.signed-section-signature]
 Hannah Banks.
 
+[.signed-section-context-close]
 Street, in Somersetshire, the place of my abode, this 4th of the Third month, 1711.
