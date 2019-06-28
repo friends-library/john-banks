@@ -475,9 +475,11 @@ Roger Jewell.
 This was viewed and approved of by the Monthly Meeting.
 
 [.blurb]
-=== Hannah Banks`'footnote:[Second wife of John Banks] Account and Testimony Concerning Her Dear and Tender Husband, John Banks, Deceased.
+=== Hannah Banks`' Account and Testimony Concerning Her Dear and Tender Husband, John Banks, Deceased.
 
-I was married to him the 28th of the eighth month, 1696, being a widow,
+I was married to him^
+footnote:[Hannah Banks was the second wife of John Banks]
+the 28th of the eighth month, 1696, being a widow,
 and was convinced of God`'s truth in the time of my widowhood;
 we were married at Glastonbury, and went to live at Mear, until the year 1708,
 and then came to Street, where we continued until he died.
