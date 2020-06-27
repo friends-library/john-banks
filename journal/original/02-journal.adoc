@@ -586,9 +586,9 @@ J+++.+++ B.
 Puddimoore-Milton, in Somersetshire, the 28th of the Fourth month, 1668.
 
 [.postscript]
-POSTSCRIPT.
+====
 
-The truth of our God prospers and gaineth a good report in these parts,
+Postscript.--The truth of our God prospers and gaineth a good report in these parts,
 and many other places where we have travelled; and many are coming in to partake thereof.
 For people in many places are weary of the hireling priests,
 and dead formal worship of the world, and their assemblies grow thin.
@@ -600,6 +600,8 @@ whose the work and power are; and count nothing too hard for us,
 so that we may bear a faithful testimony for Him, to the good of souls;
 that he over all may be glorified;
 and that we may feel true peace with Him in the end for our reward.
+
+====
 
 [.signed-section-signature]
 J+++.+++ B.
