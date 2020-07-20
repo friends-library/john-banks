@@ -704,6 +704,7 @@ Therefore be watchful to walk in it; that is to say,
 take heed to the light of Christ Jesus in you, the measure of the Spirit of Truth,
 which will lead you into all truth, and out of all deceit,
 as you do obey and follow the same.
+// lint-disable person-mismatch "you makes"
 Whatever this pure light in you makes manifest to be evil, and reproves you for,
 depart from it; if it be that which no eye can see, nor no one knows of,
 yet you must forsake it; wait and watch daily against it,
@@ -901,7 +902,7 @@ who is worthy forever; whose the work is, and who is mighty by his own power,
 for carrying on the same.
 
 My dear one, my daily cry and secret breathings are to the Lord for you,
-that you may be preserved in faithfulness to him, even to what you knows of him,
+that you may be preserved in faithfulness to him, even to what you know of him,
 made manifest by his pure light in you, by which the enemy,
 with all his cunning and subtlety, and reasoning which darkens, is discovered,
 and the outgoings of the mind judged; and the power received by waiting in the light,
@@ -1252,6 +1253,7 @@ we may be made witnesses more and more of the joy of his salvation therein;
 partakers of that peace which the world can neither take nor give.
 
 You and my dear children are so near and dear unto me,
+// lint-disable person-mismatch "you draws"
 that many times the remembrance of you draws tears from me;
 for the further I am separated from you, the nearer you are unto me in spirit;
 and at this time my heart is broken into tenderness, being sensible,
